@@ -110,7 +110,6 @@ cloth_dataset/
 │└── T-Shirt/
 │   ├── image1.jpg
 │   ├── image2.jpg
-│   └── ...
 
 
 ### Image Preprocessing
